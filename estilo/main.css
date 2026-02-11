@@ -1,0 +1,33 @@
+body{
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: #693f13;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 40px;
+    margin-left: 38%;
+    margin-right: 38%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 3px black;
+    border: 2px #45290c;
+    border-style: groove;
+    font-size: 11px;
+}
+.tenis{
+    text-align: center;
+    box-shadow: 0px 0px 2px black;
+    background-color: white;
+    max-width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+    border-radius: 6px;
+}
+.tenis img{
+    box-shadow: 0px 0px 2px black;
+    margin-top: 10px;
+    border-radius: 8px;
+}
